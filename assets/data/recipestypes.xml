@@ -1,0 +1,30 @@
+<recipes>
+    <recipe>
+        <name>Cherry Salad</name>
+        <type>Salad</type>
+        <picture>assets/picture/cherry_Salad.jpg</picture>
+        <ingredients>Cherry, Banana, Cantaloupe, Green Grapes, Banana</ingredients>
+        <steps>Wash hands with soap and water. In a large bowl, mix together the cut fruit. Pour orange juice over fruit and stir in coconut, if desired. Refrigerate leftovers within 2 hours.</steps>
+    </recipe>
+    <recipe>
+        <name>Super Sundae</name>
+        <type>Snack</type>
+        <picture>assets/picture/Super_Sundae.jpg</picture>
+        <ingredients>Yogurt, Peaches, Blueberries, Granola</ingredients>
+        <steps>Wash hands with soap and water. Divide yogurt between 2 clear glasses or dishes. Spoon half of the peaches and blueberries on top of the yogurt. Sprinkle each sundae with granola. Refrigerate leftovers within 2 hours.</steps>
+    </recipe>
+    <recipe>
+        <name>Banana Berry Smoothie</name>
+        <type>Drink</type>
+        <picture>assets/picture/Banana_Berry_Smoothie.jpg</picture>
+        <ingredients>Banana, Berries, Milk, Orange Juice</ingredients>
+        <steps>Wash hands with soap and water. Place all ingredients in a blender. Put the lid on tightly. Blend until smooth. If too thick, add ½ cup cold water and blend again. Refrigerate leftovers within 2 hours.</steps>
+    </recipe>
+    <recipe>
+        <name>Banana Berry Smoothie TEST</name>
+        <type>Drink</type>
+        <picture>assets/picture/Banana_Berry_Smoothie.jpg</picture>
+        <ingredients>Banana, Berries, Milk, Orange Juice</ingredients>
+        <steps>Wash hands with soap and water. Place all ingredients in a blender. Put the lid on tightly. Blend until smooth. If too thick, add ½ cup cold water and blend again. Refrigerate leftovers within 2 hours.</steps>
+    </recipe>
+</recipes>
